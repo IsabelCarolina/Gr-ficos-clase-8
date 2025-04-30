@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1071.37 685">
+  <!-- Generator: Adobe Illustrator 29.5.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 137)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #511f74;
+      }
+
+      .st1 {
+        fill: none;
+        stroke: #000;
+      }
+
+      .st2 {
+        fill: #f29627;
+      }
+
+      .st3 {
+        fill: #26a699;
+      }
+
+      .st4 {
+        fill: #f3be22;
+      }
+
+      .st5 {
+        fill: #7b7b7b;
+        font-family: Arial-BoldMT, Arial;
+        font-size: 12px;
+        font-weight: 700;
+      }
+
+      .st5, .st6 {
+        isolation: isolate;
+      }
+
+      .st6 {
+        font-family: ArialMT, Arial;
+        font-size: 10px;
+      }
+    </style>
+  </defs>
+  <g id="Reprueban">
+    <g>
+      <rect class="st2" x="74.67" y="504.61" width="105.29" height="112"/>
+      <rect class="st2" x="180.96" y="470.15" width="105.29" height="146.46"/>
+      <rect class="st2" x="287.24" y="362.46" width="105.29" height="254.15"/>
+      <rect class="st2" x="393.53" y="414.15" width="105.29" height="202.46"/>
+      <rect class="st2" x="499.82" y="431.38" width="105.29" height="185.23"/>
+      <rect class="st2" x="606.1" y="526.15" width="105.29" height="90.46"/>
+      <rect class="st2" x="712.39" y="396.92" width="105.29" height="219.69"/>
+    </g>
+  </g>
+  <g id="V_y_M">
+    <g>
+      <rect class="st4" x="74.67" y="496" width="105.29" height="8.62"/>
+      <rect class="st4" x="180.96" y="448.61" width="105.29" height="21.54"/>
+      <rect class="st4" x="287.24" y="332.3" width="105.29" height="30.15"/>
+      <rect class="st4" x="393.53" y="375.38" width="105.29" height="38.77"/>
+      <rect class="st4" x="499.82" y="323.69" width="105.29" height="107.69"/>
+      <rect class="st4" x="606.1" y="435.69" width="105.29" height="90.46"/>
+      <rect class="st4" x="712.39" y="254.77" width="105.29" height="142.15"/>
+    </g>
+  </g>
+  <g id="I_y_S">
+    <g>
+      <polygon class="st3" points="74.67 496 179.96 496 179.96 496 74.67 496"/>
+      <rect class="st3" x="180.96" y="427.07" width="105.29" height="21.54"/>
+      <rect class="st3" x="287.24" y="315.07" width="105.29" height="17.23"/>
+      <rect class="st3" x="393.53" y="345.23" width="105.29" height="30.15"/>
+      <rect class="st3" x="499.82" y="224.61" width="105.29" height="99.08"/>
+      <rect class="st3" x="606.1" y="375.38" width="105.29" height="60.31"/>
+      <rect class="st3" x="712.39" y="129.84" width="105.29" height="124.92"/>
+    </g>
+  </g>
+  <g id="Diseño">
+    <g>
+      <rect class="st0" x="74.67" y="491.69" width="105.29" height="4.31"/>
+      <polygon class="st0" points="180.96 427.07 286.25 427.07 286.25 427.07 180.96 427.07"/>
+      <polygon class="st0" points="287.24 315.07 392.53 315.07 392.53 315.07 287.24 315.07"/>
+      <rect class="st0" x="393.53" y="323.69" width="105.29" height="21.54"/>
+      <rect class="st0" x="499.82" y="194.46" width="105.29" height="30.15"/>
+      <rect class="st0" x="606.1" y="358.15" width="105.29" height="17.23"/>
+      <rect class="st0" x="712.39" y="95.38" width="105.29" height="34.46"/>
+    </g>
+  </g>
+  <g id="xAxis">
+    <path class="st1" d="M73.67,616.61h745"/>
+    <g>
+      <line class="st1" x1="127.32" y1="616.61" x2="127.32" y2="622.61"/>
+      <text class="st6" transform="translate(111.75 632.71)"><tspan x="0" y="0">2021-2</tspan></text>
+    </g>
+    <g>
+      <line class="st1" x1="233.6" y1="616.61" x2="233.6" y2="622.61"/>
+      <text class="st6" transform="translate(218.03 632.71)"><tspan x="0" y="0">2022-1</tspan></text>
+    </g>
+    <g>
+      <line class="st1" x1="339.89" y1="616.61" x2="339.89" y2="622.61"/>
+      <text class="st6" transform="translate(324.32 632.71)"><tspan x="0" y="0">2022-2</tspan></text>
+    </g>
+    <g>
+      <line class="st1" x1="446.17" y1="616.61" x2="446.17" y2="622.61"/>
+      <text class="st6" transform="translate(430.6 632.71)"><tspan x="0" y="0">2023-1</tspan></text>
+    </g>
+    <g>
+      <line class="st1" x1="552.46" y1="616.61" x2="552.46" y2="622.61"/>
+      <text class="st6" transform="translate(536.89 632.71)"><tspan x="0" y="0">2023-2</tspan></text>
+    </g>
+    <g>
+      <line class="st1" x1="658.75" y1="616.61" x2="658.75" y2="622.61"/>
+      <text class="st6" transform="translate(643.18 632.71)"><tspan x="0" y="0">2024-1</tspan></text>
+    </g>
+    <g>
+      <line class="st1" x1="765.03" y1="616.61" x2="765.03" y2="622.61"/>
+      <text class="st6" transform="translate(749.46 632.71)"><tspan x="0" y="0">2024-2</tspan></text>
+    </g>
+  </g>
+  <g id="yAxis">
+    <path class="st1" d="M73.67,616.61V56.61"/>
+    <g>
+      <line class="st1" x1="73.67" y1="616.61" x2="67.67" y2="616.61"/>
+      <text class="st6" transform="translate(59.11 619.81)"><tspan x="0" y="0">0</tspan></text>
+    </g>
+    <g>
+      <line class="st1" x1="73.67" y1="573.54" x2="67.67" y2="573.54"/>
+      <text class="st6" transform="translate(53.55 576.74)"><tspan x="0" y="0">10</tspan></text>
+    </g>
+    <g>
+      <line class="st1" x1="73.67" y1="530.46" x2="67.67" y2="530.46"/>
+      <text class="st6" transform="translate(53.55 533.66)"><tspan x="0" y="0">20</tspan></text>
+    </g>
+    <g>
+      <line class="st1" x1="73.67" y1="487.38" x2="67.67" y2="487.38"/>
+      <text class="st6" transform="translate(53.55 490.58)"><tspan x="0" y="0">30</tspan></text>
+    </g>
+    <g>
+      <line class="st1" x1="73.67" y1="444.3" x2="67.67" y2="444.3"/>
+      <text class="st6" transform="translate(53.55 447.5)"><tspan x="0" y="0">40</tspan></text>
+    </g>
+    <g>
+      <line class="st1" x1="73.67" y1="401.23" x2="67.67" y2="401.23"/>
+      <text class="st6" transform="translate(53.55 404.43)"><tspan x="0" y="0">50</tspan></text>
+    </g>
+    <g>
+      <line class="st1" x1="73.67" y1="358.15" x2="67.67" y2="358.15"/>
+      <text class="st6" transform="translate(53.55 361.35)"><tspan x="0" y="0">60</tspan></text>
+    </g>
+    <g>
+      <line class="st1" x1="73.67" y1="315.07" x2="67.67" y2="315.07"/>
+      <text class="st6" transform="translate(53.55 318.27)"><tspan x="0" y="0">70</tspan></text>
+    </g>
+    <g>
+      <line class="st1" x1="73.67" y1="272" x2="67.67" y2="272"/>
+      <text class="st6" transform="translate(53.55 275.2)"><tspan x="0" y="0">80</tspan></text>
+    </g>
+    <g>
+      <line class="st1" x1="73.67" y1="228.92" x2="67.67" y2="228.92"/>
+      <text class="st6" transform="translate(53.55 232.12)"><tspan x="0" y="0">90</tspan></text>
+    </g>
+    <g>
+      <line class="st1" x1="73.67" y1="185.84" x2="67.67" y2="185.84"/>
+      <text class="st6" transform="translate(47.99 189.04)"><tspan x="0" y="0">100</tspan></text>
+    </g>
+    <g>
+      <line class="st1" x1="73.67" y1="142.77" x2="67.67" y2="142.77"/>
+      <text class="st6" transform="translate(48.73 145.97)"><tspan x="0" y="0">110</tspan></text>
+    </g>
+    <g>
+      <line class="st1" x1="73.67" y1="99.69" x2="67.67" y2="99.69"/>
+      <text class="st6" transform="translate(47.99 102.89)"><tspan x="0" y="0">120</tspan></text>
+    </g>
+    <g>
+      <line class="st1" x1="73.67" y1="56.61" x2="67.67" y2="56.61"/>
+      <text class="st6" transform="translate(47.99 59.81)"><tspan x="0" y="0">130</tspan></text>
+    </g>
+  </g>
+  <text class="st5" transform="translate(426.17 667.79)"><tspan x="0" y="0">Semestre</tspan></text>
+  <text class="st5" transform="translate(44 39.31)"><tspan x="0" y="0">Incrites</tspan></text>
+  <rect class="st0" x="874.44" y="64.78" width="37.2" height="39.64"/>
+  <rect class="st3" x="874.44" y="109.92" width="37.2" height="39.64"/>
+  <rect class="st4" x="874.44" y="155.05" width="37.2" height="39.64"/>
+  <rect class="st2" x="874.44" y="200.18" width="37.2" height="39.64"/>
+  <text class="st5" transform="translate(933.35 88.97)"><tspan x="0" y="0">Reprobados</tspan></text>
+  <text class="st5" transform="translate(934.23 132.3)"><tspan x="0" y="0">Aprobados V y M</tspan></text>
+  <text class="st5" transform="translate(934.23 176.67)"><tspan x="0" y="0">Aprobados I y S</tspan></text>
+  <text class="st5" transform="translate(934.23 220)"><tspan x="0" y="0">Aprobados Diseño</tspan></text>
+</svg>
